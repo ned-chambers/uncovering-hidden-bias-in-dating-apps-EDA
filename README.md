@@ -31,11 +31,11 @@ Such steps will enhance user inclusivity, satisfaction, and engagement, directly
 
 ## 1.1 Disclaimers
 
-### 1. Fictional business case:
+### 1.1.1 Fictional business case:
 
 This project is based on a fictional business case designed to simulate a real-world analysis for Tinder. The dataset and analysis are adapted to provide a business-oriented context for educational purposes.
 
-### 2. Context of analysis:
+### 1.1.2 Context of analysis:
 
 The analysis focuses on examining social biases in dating, including the influence of factors such as race, religion, and income on matches. This approach aligns with practices in contexts like the US and UK, where collecting and analysing data on race, religion, and ethnicity is permissible and often encouraged to monitor and improve Diversity, Equity, and Inclusion (DEI) initiatives.
 
