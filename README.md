@@ -1,4 +1,4 @@
-# Improving Tinder match rates and reducing racial bias: An Exploratory Data Analysis of Speed Dating data using Python
+# 🔥 Improving Tinder match rates and reducing racial bias: An Exploratory Data Analysis of Speed Dating data using Python
 
 An in-depth analysis of Tinder Speed Dating data, exploring factors that influence successful matches. This project demonstrates Exploratory Data Analysis (EDA) skills in Python, including data cleaning, visualisation, interpretation, and reporting.
 
