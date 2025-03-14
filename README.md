@@ -27,7 +27,7 @@ Such steps will enhance user inclusivity, satisfaction, and engagement, directly
 
 ---
 
-# 1. Project
+# **1. Project**
 
 ## 1.1 Disclaimers
 
