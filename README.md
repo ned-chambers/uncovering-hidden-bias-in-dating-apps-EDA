@@ -4,7 +4,7 @@ An in-depth analysis of Tinder Speed Dating data, exploring factors that influen
 
 ---
 
-# **Executive Summary**
+# **Executive summary**
 
 Tinder is experiencing a global decrease in user matches, potentially exacerbated by underlying social biases. This exploratory analysis, conducted on data from controlled speed dating experiments, explores whether match rates are negatively impacted by racial bias, and whether mitigating these biases can lead to improved user engagement, increased satisfaction among users, and ultimately, greater retention on the platform.
 
@@ -43,13 +43,13 @@ However, this analysis would not be feasible in a French context due to legal re
 
 The analysis presented in this project therefore assumes a UK/US legal and cultural context.
 
-## 1.2 Case Study context
+## 1.2 Case study context
 
 Tinder, launched in 2012 by Sean Rad at a hackathon hosted by Hatch Labs in West Hollywood, is one of the world's leading online dating and geosocial networking platforms. As of 2025, Tinder has facilitated over 100 billion matches globally.
 
 To better understand what drives interest and connections between users, Tinder has designed a speed dating experiment. Each participant in the experiment provides information that mimics their dating profile on the app, including demographics, self-perceptions, and lifestyle factors. Data from the experiment is used to investigate patterns and insights into what makes people agree to go on a second date.
 
-## 1.3 Project Goals
+## 1.3 Project goals
 
 The marketing team at Tinder has observed a global decrease in the number of matches across the platform, raising concerns about user engagement and satisfaction, particularly among certain demographics. To address this issue, the marketing and Diversity, Equity, and Inclusion (DEI) teams propose the following hypotheses:
 
@@ -102,7 +102,7 @@ Key columns include:
 - `like_o`: Likelihood of liking the partner.
 - `match`: Outcome of the date (1 = yes, 0 = no).
 
-## 2.4 Ethics and Compliance
+## 2.4 Ethics and compliance
 
 The dataset has been checked to ensure it contains no personally identifiable information (PII), thus protecting participant privacy. This approach aligns with ethical research standards and complies with data protection regulations, including:
 
