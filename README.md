@@ -45,7 +45,7 @@ This analysis uncovered three important insights into modern dating dynamics:
 ### **1. Hidden biases subtly shape dating outcomes**  
    Statistical analysis (Kruskal-Wallis, p < 0.0001) revealed significant racial disparities in match rates, highlighting how implicit biases quietly influence romantic choices.
 
-   ![Match rates by racial group and gender](match_rates_by_race_and_gender.png)
+   ![Match rates by racial group and gender](images/match_rates_by_race_and_gender.png)
 
 ### **2. Meaningful connections are driven by personality and compatibility**  
    Despite biases, the strongest predictors of match success were genuine personal attributes: being perceived as **fun**, physically attractive, and sharing common interests.
