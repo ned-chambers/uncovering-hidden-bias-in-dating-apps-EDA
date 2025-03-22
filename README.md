@@ -94,9 +94,9 @@ Note: Such analysis would be suitable in contexts like the US or UK, where colle
 
 ## 🛠️ Technology stack
 
-- **Python**: Pandas, NumPy, Seaborn, Plotly, SciPy
+- **Python**: Pandas, NumPy, Seaborn, Plotly, Matplotlib, SciPy
 - **Statistical Testing**: Kruskal-Wallis non-parametric tests
-- **Visualisation**: Seaborn, Plotly
+- **Visualisation**: Seaborn, Plotly, Matplotlib
 
 ---
 
