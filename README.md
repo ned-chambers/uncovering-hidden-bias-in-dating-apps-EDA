@@ -98,7 +98,7 @@ Note: Such analysis would be suitable in contexts like the US or UK, where colle
 
 ---
 
-## 👨‍💻📈 About the Analyst
+## 👨‍💻📈 About the analyst
 
 - **Ned Chambers**
 - Data Analyst  
