@@ -34,7 +34,9 @@ I analysed a robust dataset gathered from speed dating events involving **8,378 
 
 The analysis included **exploratory data analysis (EDA)**, **statistical hypothesis testing** (Kruskal-Wallis tests), and clear **visualisations** using Python libraries like **Pandas, NumPy, Seaborn, Plotly,** and **SciPy**.
 
-[🔗 Original Dataset and Documentation](http://www.stat.columbia.edu/~gelman/arm/examples/speed.dating/)
+[🔗 Original dataset and documentation](http://www.stat.columbia.edu/~gelman/arm/examples/speed.dating/)
+
+N.B. In the case of the above link no longer working, the original dataset and data key are included in this repository.
 
 ---
 
