@@ -42,17 +42,17 @@ The analysis included **exploratory data analysis (EDA)**, **statistical hypothe
 
 This analysis uncovered three important insights into modern dating dynamics:
 
-1. **Hidden biases subtly shape dating outcomes**  
+1. #### **Hidden biases subtly shape dating outcomes**  
    Statistical analysis (Kruskal-Wallis, p < 0.0001) revealed significant racial disparities in match rates, highlighting how implicit biases quietly influence romantic choices.
 
    ![Match rates by racial group and gender](placeholder_path)
 
-2. **Meaningful connections are driven by personality and compatibility**  
+2. #### **Meaningful connections are driven by personality and compatibility**  
    Despite biases, the strongest predictors of match success were genuine personal attributes: being perceived as **fun**, physically attractive, and sharing common interests.
 
    ![Factors correlating with match success](placeholder_path)
 
-3. **Successful matches positively reinforce confidence**  
+3. #### **Successful matches positively reinforce confidence**  
    Participants receiving more matches showed notably increased confidence, highlighting the deeper psychological benefits of inclusive, compatibility-driven matchmaking.
 
    ![Confidence levels before and after speed dating](placeholder_path)
